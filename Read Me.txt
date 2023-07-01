@@ -1,0 +1,13 @@
+/// File RT adalah file untuk mengecek Running Time ///
+
+RT BF = Running Time Brute Force
+RT GREEDY = Running Time Greedy
+
+/// Cara Menjalankan ///
+
+Sebelum running untuk setiap program rubah filename = '(data yang ingin dipakai)'
+
+contoh :
+filename = 'C:/Users/JORDAN/Downloads/TUBES SA/data 6x6.txt'
+
+rubah sesuai ke dimana file data yang ingin dipakai berada
